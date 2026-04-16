@@ -1,5 +1,5 @@
 import { useState } from "react";
-import roomImage from "./assets/room.png";
+import roomImage from "./room.png";
 
 /*
   RECORD DATA
